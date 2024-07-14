@@ -1,7 +1,7 @@
 # JS-TSPlayground
 A playground to experiment with javascript and typescript programming, do anything you want
 
-#javascript directory
+## javascript directory
 just run node on a js file
 node *js
 
