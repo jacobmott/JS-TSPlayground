@@ -11,7 +11,7 @@ node *js
 do
 ```
 npm install
-npm tsc
+npx tsc
 run node on a js file
 node *js
 ```
